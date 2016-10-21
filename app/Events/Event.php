@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace ideaLab\Events;
 
 abstract class Event
 {

@@ -30,7 +30,7 @@ return [
     ],
 
     'stripe' => [
-        'model'  => App\User::class,
+        'model'  => ideaLab\User::class,
         'key' => '',
         'secret' => '',
     ],
